@@ -106,3 +106,4 @@ python -m pytest tests/ -v
 ## License
 
 MIT
+<script src="https://www-infinity4.github.io/Mint-For-Infinity/infinity-wallet-menu.js" defer></script>
